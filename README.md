@@ -1,5 +1,5 @@
 # DNS Changer
-# Usage:
+## Usage:
 It is a console based DNS changer, with help you change internet connection adapters DNS easier.
 
 ## TO DO:
